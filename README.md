@@ -1,10 +1,12 @@
-# Walkthroughs for [OverTheWire](https://overthewire.org/wargames/)
+# Walkthroughs for wargames hosted at overthetwire.org
 
 The wargames offered at this site teach the basics of terminal usage [bandit],
-webserver security[natas], cryptography[krypton] and many other things. 
+webserver security[natas], cryptography[krypton] and many other security related
+topics. Make sure to visit [OverTheWire](https://overthewire.org/wargames/)!
 
-For future reference, I decided to write down my solutions for the different 
-games and levels. 
+Although there are already a great many of solutions out there, I decided 
+to write down my own solutions. 
+For future reference, documentation and to practice duckdebugging. 
 
 If you are searching for solutions because you are stuck at level XY I strongly
 recommend that you give yourself some time before checking the solution someone
