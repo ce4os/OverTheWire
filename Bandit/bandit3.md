@@ -11,13 +11,6 @@ The password is stored in a file named
 spaces in this filename
 
 
-Background
-----------
-
-In Linux, you can choose basically every filename you want. 
-While this grants a certain amount of freedom, it can lead
-to problems too. 
-
 Solution
 --------
 

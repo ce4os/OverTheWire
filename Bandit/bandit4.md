@@ -11,10 +11,6 @@ The password is stored in a hidden
 file in the inhere directory. 
 
 
-Background
-----------
-
-
 Solution
 --------
 

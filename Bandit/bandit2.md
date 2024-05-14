@@ -11,10 +11,6 @@ Get a hold of password for bandit3.
 The password is stored in a file named -.
 
 
-Background
-----------
-
-
 Solution
 --------
 

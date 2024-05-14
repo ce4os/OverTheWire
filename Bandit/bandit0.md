@@ -42,8 +42,3 @@ logout
 Connection to bandit.labs.overthewire.org closed.
 ```
 
-Further Reading
----------------
-
-https://en.wikipedia.org/wiki/Secure_Shell
-https://www.geeksforgeeks.org/introduction-to-sshsecure-shell-keys/

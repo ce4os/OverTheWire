@@ -13,10 +13,6 @@ human readable file in the inhere/
 directory. 
 
 
-Background
-----------
-
-
 Solution
 --------
 
