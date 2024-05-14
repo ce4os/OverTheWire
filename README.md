@@ -18,13 +18,16 @@ trick and you will be able to solve a problem.
 For convenience I created a config file in the .ssh/  directory in my home folder so
 I can easily access and login to the different levels. 
 The config file looks sth. like:
+
 ```config
 Host banditlabs
 	HostName bandit.labs.overthewire.org
 	Port 2220
 ```
+
 banditlabs is an arbitrary name you can change according to your liking. 
 The rest is mandatory. I did this because
+
 ```sh
 ssh bandit0@banditlabs
 ```
