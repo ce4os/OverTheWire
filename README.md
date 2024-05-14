@@ -13,6 +13,9 @@ recommend that you give yourself some time before checking the solution someone
 else came up with. Sometimes a little distance, a walk, some distraction does the
 trick and you will be able to solve a problem. 
 
+If you are stuck and don't want to spoil all the fun, there is a file Passwords
+where you can find the passwords for all the levels without the solutions. 
+
 [SPOILER ALERT]
 
 For convenience I created a config file in the .ssh/  directory in my home folder so
