@@ -37,7 +37,7 @@ Congrats! You used ssh for the first time.
 
 To logout simply type in 
 ```sh
-bandit2@bandit:~$ exit
+bandit0@bandit:~$ exit
 logout
 Connection to bandit.labs.overthewire.org closed.
 ```
